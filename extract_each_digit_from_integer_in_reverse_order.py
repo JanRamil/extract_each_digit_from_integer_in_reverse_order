@@ -6,5 +6,9 @@
  # Create a code that will ask to input a number
 number_input = int(input("Please enter a number here: "))
 
+# Create a code that will print the number that you entered
+print("You entered: ", number_input)
+
+
  
  
