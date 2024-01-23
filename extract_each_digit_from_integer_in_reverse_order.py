@@ -3,4 +3,8 @@
  
  # Create pseudocode
  
+ # Create a code that will ask to input a number
+number_input = int(input("Please enter a number here: "))
+
+ 
  
